@@ -146,18 +146,21 @@
 ---
 
 # 💖 Favorite Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<h3 align="center">
+  ∫ From equations to intelligence — exploring the beauty of Mathematics and AI ∞
+</h3>
 
 ---
 
 # 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShivaliGupta17/ShivaliGupta17/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivaliGupta17/ShivaliGupta17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivaliGupta17/ShivaliGupta17/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShivaliGupta17/ShivaliGupta17/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
 
 ---
 

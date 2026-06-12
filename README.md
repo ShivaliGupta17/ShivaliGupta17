@@ -137,7 +137,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:gptshiv94@gmail.com">
+<a href="mailto:shivaligpt17@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ff1493?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

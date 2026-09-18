@@ -21,7 +21,7 @@
 <img align="right" height="220" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ✨ M.Sc. Data Science student at **IIIT Lucknow**  
-✨ GPA: **9.05**  
+✨ GPA: **9.15**  
 ✨ Passionate about building intelligent AI systems  
 ✨ Exploring **LLMs, Generative AI & Agentic AI**  
 ✨ Learning **RAG, LoRA, QLoRA, PEFT & Fine-Tuning**  
